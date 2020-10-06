@@ -1,2 +1,3 @@
-# Data-structure-note
-A simple data structure note using c
+# 資料結構筆記
+## 程式語言 : C
+
